@@ -77,7 +77,7 @@
 </div>
 <div class="down">
         <section class="section education" id="education">
-          <h2 class="h2 h2-education">Education</h2>
+          <h2 class="h2 h2-education" align="center">Education</h2>
           <p>
             Vitebsk State Technological University <br>
             Automation Engineer <br>
@@ -85,7 +85,7 @@
           </p>
         </section>
         <section class="section language" id="language">
-          <h2 class="h2 h2-language">Language</h2>
+          <h2 class="h2 h2-language" align="center">Language</h2>
           <p>
             German: A2 <br>
             English: A2
