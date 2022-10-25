@@ -75,3 +75,20 @@
         </section>
         </div>
 </div>
+<div class="down">
+        <section class="section education" id="education">
+          <h2 class="h2 h2-education">Education</h2>
+          <p>
+            Vitebsk State Technological University <br>
+            Automation Engineer <br>
+            RsShool Front-End Q0, Q1, Q2, Q3, React(now)
+          </p>
+        </section>
+        <section class="section language" id="language">
+          <h2 class="h2 h2-language">Language</h2>
+          <p>
+            German: A2 <br>
+            English: A2
+          </p>
+        </section>
+      </div>
