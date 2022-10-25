@@ -31,7 +31,7 @@
 <section class="section skills" id="skills">
           <h2 class="h2 h2-skills" align="center">Skills</h2>
           <ul class="skill">
-            <li><span class="span">HTML</span></li>
+            <li><span class="span">HTML</span></li> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
             <li><span class="span">CSS &amp; SASS</span></li>
             <li><span class="span">JS</span></li>
             <li><span class="span">Git</span></li>
