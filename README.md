@@ -31,12 +31,16 @@
 <section class="section skills" id="skills">
           <h2 class="h2 h2-skills" align="center">Skills</h2>
           <ul class="skill">
-            <li><span class="span">HTML</span></li> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> </img>
-            <li><span class="span">CSS &amp; SASS</span></li>
-            <li><span class="span">JS</span></li>
-            <li><span class="span">Git</span></li>
-            <li><span class="span">React</span></li>
-            <li><span class="span">TypeScript</span></li>
+            <li><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> </img></li> 
+            <li><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></></li>
+            <li><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></li>
+            <li><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></li>
+            <li><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></li>
+            <li><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></li>
+           <li><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></li>
+          <li><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></li>
+          <li><img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"></li>
+          
           </ul>
         </section>
         </div>
