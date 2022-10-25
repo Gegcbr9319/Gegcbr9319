@@ -6,9 +6,8 @@
 
 <div>
 <div> 
-<h3 align="center"> Contact information</h3>
 <section class="section contact-info" id="contact">
-          <h2 class="h2 h2-contact">Contact information</h2>
+          <h2 class="h2 h2-contact" align="center">Contact information</h2>
           <ul class="contact">
             <li>
               <a class="a" href="tel:+375292125648"><span class="span">Phone: +375292125648</span></a>
@@ -30,7 +29,7 @@
 </div>
 <div>
 <section class="section skills" id="skills">
-          <h2 class="h2 h2-skills">Skills</h2>
+          <h2 class="h2 h2-skills" align="center">Skills</h2>
           <ul class="skill">
             <li><span class="span">HTML</span></li>
             <li><span class="span">CSS &amp; SASS</span></li>
@@ -43,7 +42,7 @@
         </div>
         <div> 
         <section class="section project" id="project">
-          <h2 class="h2 h2-project">My Project</h2>
+          <h2 class="h2 h2-project" align="center">My Project</h2>
           <ul class="project-ul">
             <li>
               <a class="a" href="https://gegcbr9319.github.io/cssMemSlider/cssMemSlider/src/index"><span class="span">Mem slider</span></a>
