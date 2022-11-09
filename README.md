@@ -74,6 +74,9 @@
             <li>
               <a class="a" href="https://gegcbr9319-onlinestore.netlify.app/"><span class="span">Store</span></a>
             </li>
+             <li>
+              <a class="a" href="https://coctails-search.netlify.app/"><span class="span">Coctails</span></a>
+            </li>
           </ul>
         </section>
         </div>
