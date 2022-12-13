@@ -95,7 +95,7 @@
           <p>
             Vitebsk State Technological University <br>
             Automation Engineer <br>
-            RsShool Front-End Q0, Q1, Q2, Q3, React(now)
+            RsShool Front-End Q0, Q1, Q2, Q3, React
           </p>
         </section>
         <section class="section language" id="language">
