@@ -77,6 +77,9 @@
              <li>
               <a class="a" href="https://coctails-search.netlify.app/"><span class="span">Coctails</span></a>
             </li>
+                <li>
+              <a class="a" href="https://rss-react-pm-app.netlify.app/"><span class="span">Project manager</span></a>
+            </li>    
           </ul>
         </section>
         </div>
