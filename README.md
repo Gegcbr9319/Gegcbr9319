@@ -102,7 +102,7 @@
           <h2 class="h2 h2-language" align="center">Language</h2>
           <p>
             German: A2 <br>
-            English: A2
+            English: B1
           </p>
         </section>
       </div>
