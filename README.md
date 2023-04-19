@@ -87,7 +87,10 @@
             </li>
              <li>
               <a class="a" href="https://calculator-gegcbr9319.netlify.app/"><span class="span">Calculator</span></a>
-            </li>    
+            </li>
+              <li>
+                <a class="a" href="https://testonlinestore.netlify.app/main"><span class="span">TestOnlineStore</span></a>
+            </li>        
           </ul>
         </section>
         </div>
