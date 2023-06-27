@@ -2,7 +2,7 @@
 <h3 align="center"> Front-end developer from Belarus</h3>
 
 <h2 align="center"> About Myself </h2>
-<p> I am 29 years old, I am studying to be a front-end developer at rsshool. I live in the city of Vitebsk, Republic of Belarus. I graduated the VSTU, majoring in automation engineer. At university I was learning how to work with mechanisms and how to programming them. After 8 years of working in different positions, I decided to change my field of activity due to burnout and a look at politics. I chose the frontend because it is beautiful, interesting and required. </p>
+<p> I am 30 years old, I am studying to be a front-end developer at rsshool. I live in the city of Vitebsk, Republic of Belarus. I graduated the VSTU, majoring in automation engineer. At university I was learning how to work with mechanisms and how to programming them. After 8 years of working in different positions, I decided to change my field of activity due to burnout and a look at politics. I chose the frontend because it is beautiful, interesting and required. </p>
 
 <div>
 <div> 
